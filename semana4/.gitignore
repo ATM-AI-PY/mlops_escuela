@@ -1,0 +1,16 @@
+   # Resultados de MLflow (se regeneran al correr train.py)
+   mlruns/
+   mlartifacts/
+   mlflow_telco.db
+   *.db
+
+   # Artefactos generados por train.py
+   matriz_confusion.png
+   metricas.json
+
+   # Python
+   __pycache__/
+   *.pyc
+   .ipynb_checkpoints/
+   .venv/
+   venv/
