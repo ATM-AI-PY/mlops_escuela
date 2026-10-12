@@ -1,0 +1,7 @@
+# Dependencias del proyecto (probado con Python 3.10)
+# Instalar con: pip install -r requirements.txt
+matplotlib==3.10.8
+mlflow==3.16.1
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.7.2
